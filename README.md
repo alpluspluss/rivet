@@ -4,6 +4,8 @@ A fast C/C++ build system with cross-compilation support, workspace management, 
 Rivet supports parallel compilation and caching by default out of the box with workspace support 
 for multi-project builds.
 
+Rivet is based on [Forge](https://github.com/alpluspluss/forge), my archived project.
+
 ## Quick Start
 
 ```shell
