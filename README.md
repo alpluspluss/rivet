@@ -83,7 +83,7 @@ settings in their own config files. Workspace can have sub-workspaces.
 
 ### Requirements
 
-- Rust 1.82 or any compatible
+- Go 1.23.3 or compatible
 - Compilers that you will be using (i.e. gcc, clang++, MSVC)
 
 ### Building
